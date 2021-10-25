@@ -11,3 +11,5 @@
 回归篇,无监督篇:https://www.bilibili.com/video/BV1Ef4y1W79B/
 
 支持向量机篇,神经网络篇:https://www.bilibili.com/video/BV1PU4y1b7qP/
+
+隐马尔可夫篇,维特比篇:https://www.bilibili.com/video/BV1mT4y1R7JB/
